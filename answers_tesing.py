@@ -30,4 +30,4 @@ while sign:
     print(pageNumber)
     print(results_df)
 
-results_df.to_csv("data", "queries.csv", sep="\t", index=False)
+results_df.to_csv(os.path.join("data", "queries.csv"), sep="\t", index=False)
