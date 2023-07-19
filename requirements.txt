@@ -1,4 +1,12 @@
 python-dotenv
+sentence-transformers
 requests
 urlparser
 pandas
+elasticsearch
+asyncio
+pymystem3
+pydantic
+aiohttp
+uvicorn
+fastapi

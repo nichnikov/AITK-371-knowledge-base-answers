@@ -1,0 +1,10 @@
+{
+  "stopwords_files": ["greetings.csv", "stopwords.csv"],
+  "clusters_index": "etalons_for_testing",
+  "answers_index": "answers",
+  "max_hits": 100,
+  "chunk_size": 500,
+  "sbert_score": 0.0,
+  "host": "0.0.0.0",
+  "port": 8090
+}
